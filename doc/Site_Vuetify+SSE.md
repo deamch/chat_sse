@@ -278,4 +278,4 @@ Continue your learning by exploring [all of the features available to `EventSour
 * Липчак Дмитро [telegram](https://t.me/Meamch), [пошта](dl080202@gmail.com)
 * Онищук Юрій [telegram](https://t.me/deGenre), [пошта](fjehhur@gmail.com)
 
-><a href="https://github.com/deamch/Project" target="_blank">https://github.com/deamch/Project</a>
+><a href="https://github.com/deamch/chat_sse" target="_blank">https://github.com/deamch/chat_sse</a>
